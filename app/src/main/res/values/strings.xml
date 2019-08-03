@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Venados Test</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actmain_tab_name_copa">COPA MX</string>
+    <string name="actmain_tab_name_ascenso">ASCENSO MX</string>
+    <string name="menu_drawer_home">Home</string>
+    <string name="menu_drawer_statistics">Statistics</string>
+    <string name="menu_drawer_players">Players</string>
+    <string name="t_view_tab_copa_team_name">Venados F.C</string>
+    <string name="model_player_position">Defensa</string>
+    <string name="model_player_name">Carlos Vela</string>
+    <string name="player_details_ficha_tecnica">FICHA TÉCNICA</string>
+    <string name="player_details_fecha_nacimiento">FECHA NACIMIENTO</string>
+    <string name="player_details_lugar_nacimiento">LUGAR DE NACIMIENTO</string>
+    <string name="player_details_peso">PESO</string>
+    <string name="player_details_altura">ALTURA</string>
+    <string name="player_details_equipo_anterior">EQUIPO ANTERIOR</string>
+    <string name="player_details_numero">NÚMERO</string>
+</resources>
